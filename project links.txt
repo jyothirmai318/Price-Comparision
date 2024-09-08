@@ -1,0 +1,5 @@
+---https://www.tutorialspoint.com/flask/flask_application.htm
+---https://docs.rackspace.com/support/how-to/install-mysql-server-on-the-ubuntu-operating-system/
+---https://linuxize.com/post/how-to-install-flask-on-ubuntu-20-04/
+---https://www.geeksforgeeks.org/login-and-registration-project-using-flask-and-mysql/
+---https://www.twilio.com/docs/verify/quickstarts/python-flask#:~:text=Use%20the%20Flask%20Twilio%20Verify%20Demo,-Navigate%20to%20http&text=Enter%20your%20phone%20number%20and,SMS%20with%20the%20verification%20token.
